@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/delplaya-vip/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/delplaya-vip/static/js/main.6f528401.chunk.js",
+    "main.js.map": "/delplaya-vip/static/js/main.6f528401.chunk.js.map",
+    "runtime-main.js": "/delplaya-vip/static/js/runtime-main.912bbe28.js",
+    "runtime-main.js.map": "/delplaya-vip/static/js/runtime-main.912bbe28.js.map",
+    "static/js/2.698111ef.chunk.js": "/delplaya-vip/static/js/2.698111ef.chunk.js",
+    "static/js/2.698111ef.chunk.js.map": "/delplaya-vip/static/js/2.698111ef.chunk.js.map",
+    "static/js/3.b8b33e97.chunk.js": "/delplaya-vip/static/js/3.b8b33e97.chunk.js",
+    "static/js/3.b8b33e97.chunk.js.map": "/delplaya-vip/static/js/3.b8b33e97.chunk.js.map",
+    "index.html": "/delplaya-vip/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/delplaya-vip/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.698111ef.chunk.js.LICENSE.txt": "/delplaya-vip/static/js/2.698111ef.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/delplaya-vip/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.912bbe28.js",
+    "static/js/2.698111ef.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.6f528401.chunk.js"
+  ]
+}
