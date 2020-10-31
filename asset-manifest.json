@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/delplaya-vip/static/css/main.ab7136cd.chunk.css",
-    "main.js": "/delplaya-vip/static/js/main.6f528401.chunk.js",
-    "main.js.map": "/delplaya-vip/static/js/main.6f528401.chunk.js.map",
-    "runtime-main.js": "/delplaya-vip/static/js/runtime-main.912bbe28.js",
-    "runtime-main.js.map": "/delplaya-vip/static/js/runtime-main.912bbe28.js.map",
-    "static/js/2.698111ef.chunk.js": "/delplaya-vip/static/js/2.698111ef.chunk.js",
-    "static/js/2.698111ef.chunk.js.map": "/delplaya-vip/static/js/2.698111ef.chunk.js.map",
-    "static/js/3.b8b33e97.chunk.js": "/delplaya-vip/static/js/3.b8b33e97.chunk.js",
-    "static/js/3.b8b33e97.chunk.js.map": "/delplaya-vip/static/js/3.b8b33e97.chunk.js.map",
-    "index.html": "/delplaya-vip/index.html",
-    "static/css/main.ab7136cd.chunk.css.map": "/delplaya-vip/static/css/main.ab7136cd.chunk.css.map",
-    "static/js/2.698111ef.chunk.js.LICENSE.txt": "/delplaya-vip/static/js/2.698111ef.chunk.js.LICENSE.txt",
-    "static/media/logo.103b5fa1.svg": "/delplaya-vip/static/media/logo.103b5fa1.svg"
+    "main.css": "/static/css/main.5e7c276e.chunk.css",
+    "main.js": "/static/js/main.679bdbe0.chunk.js",
+    "main.js.map": "/static/js/main.679bdbe0.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.2dfa7da9.js",
+    "runtime-main.js.map": "/static/js/runtime-main.2dfa7da9.js.map",
+    "static/js/2.698111ef.chunk.js": "/static/js/2.698111ef.chunk.js",
+    "static/js/2.698111ef.chunk.js.map": "/static/js/2.698111ef.chunk.js.map",
+    "static/js/3.b8b33e97.chunk.js": "/static/js/3.b8b33e97.chunk.js",
+    "static/js/3.b8b33e97.chunk.js.map": "/static/js/3.b8b33e97.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.5e7c276e.chunk.css.map": "/static/css/main.5e7c276e.chunk.css.map",
+    "static/js/2.698111ef.chunk.js.LICENSE.txt": "/static/js/2.698111ef.chunk.js.LICENSE.txt",
+    "static/media/bg.057ca4cc.jpg": "/static/media/bg.057ca4cc.jpg",
+    "static/media/logo.103b5fa1.svg": "/static/media/logo.103b5fa1.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.912bbe28.js",
+    "static/js/runtime-main.2dfa7da9.js",
     "static/js/2.698111ef.chunk.js",
-    "static/css/main.ab7136cd.chunk.css",
-    "static/js/main.6f528401.chunk.js"
+    "static/css/main.5e7c276e.chunk.css",
+    "static/js/main.679bdbe0.chunk.js"
   ]
 }
